@@ -143,7 +143,9 @@ Shenglin Zhang, Pengxiang Jin, Zihan Lin, Yongqian Sun, Bicheng Zhang, **Sibo Xi
 </div>
 
 # 🎖 Honors and Awards
+- *2026.09* 🎓 Merit Student Award at Nankai University
 - *2026.07* 🎓 FSE 2026 Industry Track Distinguished Paper Award (The Only Recipient)
+- *2026.06* 🎓 Outstanding Communist Party Member at Nankai University 
 - *2025.12* 🎓 Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan
 - *2025.10* 🎓 National Scholarship
 - *2025.10* 🎓 Shiing-Shen Chern Academic Newcomer Scholarship of Nankai University
