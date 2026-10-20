@@ -143,6 +143,7 @@ Shenglin Zhang, Pengxiang Jin, Zihan Lin, Yongqian Sun, Bicheng Zhang, **Sibo Xi
 </div>
 
 # 🎖 Honors and Awards
+- *2026.10* 🎓 Second prize of the Gongneng Scholarship of Nankai University for Graduate Students
 - *2026.09* 🎓 Merit Student Award at Nankai University
 - *2026.07* 🎓 FSE 2026 Industry Track Distinguished Paper Award (The Only Recipient)
 - *2026.06* 🎓 Outstanding Communist Party Member at Nankai University 
